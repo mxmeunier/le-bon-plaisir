@@ -1,2 +1,2 @@
 # le-bon-plaisir
-Workshop around ReactJS single page application
+Workshop around ReactJS application
